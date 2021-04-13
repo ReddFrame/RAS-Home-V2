@@ -1,0 +1,25 @@
+/********************************
+Custom CSS - By Jean Boyer Arroyo
+********************************/
+
+
+/* Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800&display=swap');
+
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+/* Hero/Banner Background IMG */
+#banner-hero {
+  background-image: url("img/banner/banner-bg.jpeg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh
+}
+
+/* Carousel Slides */
+.carousel-item {
+    width: 50%;
+}
