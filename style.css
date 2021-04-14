@@ -23,3 +23,36 @@ body {
 .carousel-item {
     width: 50%;
 }
+
+/* Our Services */
+#services-ras,
+#portfolio-ras,
+#blog-ras {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+#services-headline,
+#cta-headline,
+#portfolio-headline,
+#blog-headline {
+  text-align: center;
+  margin: 0 auto;
+}
+
+/* CTA Section */
+#cta-ras {
+  background-color: #28628b;
+  color: #fff;
+  width: 100vw;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+#cta-ras h1,
+#portfolio-ras h1,
+#portfolio-ras p,
+#blog-ras h1,
+#blog-ras p {
+  padding-bottom: 15px;
+}
