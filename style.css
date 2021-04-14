@@ -56,3 +56,12 @@ body {
 #blog-ras p {
   padding-bottom: 15px;
 }
+
+/* Blog Section */
+#banner-img {
+  width: 50%;
+}
+
+#uline {
+  text-decoration: underline;
+}
